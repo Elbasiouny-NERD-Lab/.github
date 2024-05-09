@@ -8,7 +8,7 @@
 <br>
 
 <div align="center">
-  <img width="29%" src="../resources/NERD_no_bg.png" alt="NERD Lab Logo">
-  <img width="14%" src="../resources/transparent_picture.png">
-  <img width="29%" src="../resources/WSU_logo.png" alt="WSU Logo">
+  <img width="29%" src="https://github.com/Elbasiouny-NERD-Lab/.github-private/blob/main/resources/NERD_no_bg.png" alt="NERD Lab Logo">
+  <img width="14%" src="https://github.com/Elbasiouny-NERD-Lab/.github-private/blob/main/resources/transparent_picture.png">
+  <img width="29%" src="https://github.com/Elbasiouny-NERD-Lab/.github-private/blob/main/resources/WSU_logo.png" alt="WSU Logo">
 </div>
